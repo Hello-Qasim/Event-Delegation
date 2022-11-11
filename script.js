@@ -9,4 +9,4 @@ document.querySelector(".sports").addEventListener("click", () => {
   console.log("clicked"); //output => "Clicked"
 });
 
-// In the above code we have added an event which is logging "clicked" in our console.So whenever there is a click on any of the sport from the list we'll get that result of "clicked" .
+// In the above code, we have added an event which is logging "clicked" in our console.So whenever there is a click on any of the sport from the list we'll get that result of "clicked" .
